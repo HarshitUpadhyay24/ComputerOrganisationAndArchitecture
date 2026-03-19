@@ -34,7 +34,7 @@ The carry-out of each stage was connected to the carry-in of the next stage. Dif
 
 ## Circuit Diagram
 
-[Ripple Carry Adder using Basic Gates](#)
+[Ripple Carry Adder using Basic Gates](https://github.com/HarshitUpadhyay24/ComputerOrganisationAndArchitecture/blob/main/Exp2/added.jpeg)
 
 ---
 
