@@ -1,4 +1,4 @@
-#  Experiment 2  
+#  Experiment 4 
 
 ## Implementation of Shift Registers using Logisim  
 
@@ -42,7 +42,7 @@ Clock pulses were applied to control the shifting operation, and input values we
 
 ## Circuit Diagram  
 
-[SISO / SIPO / PISO / PIPO Designs](#)  
+[Shift Register](#)
 
 ---  
 
