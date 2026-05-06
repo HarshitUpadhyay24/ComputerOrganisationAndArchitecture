@@ -1,6 +1,6 @@
-## Experiment 6
+# Experiment 6
 
-# 8-bit Shift Register: Logical & Rotate Operations
+## 8-bit Shift Register: Logical & Rotate Operations
 
 ## Overview
 
